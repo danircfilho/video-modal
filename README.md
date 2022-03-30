@@ -14,3 +14,6 @@ Apresentação de um modal para execução de vídeos que podem podem estar disp
 
 https://modalmovie.netlify.app/
 
+Copyrigth (c) 2021 - Daniel Rodrigues de Carvalho Filho
+
+"This project is licensed under the terms of the MIT license."
